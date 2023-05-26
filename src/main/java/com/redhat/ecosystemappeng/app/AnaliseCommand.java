@@ -1,4 +1,4 @@
-package com.redhat.ecosystemappeng.cli;
+package com.redhat.ecosystemappeng.app;
 
 import java.io.File;
 

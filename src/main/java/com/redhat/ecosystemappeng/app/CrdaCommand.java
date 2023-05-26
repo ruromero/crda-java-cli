@@ -1,4 +1,4 @@
-package com.redhat.ecosystemappeng.cli;
+package com.redhat.ecosystemappeng.app;
 
 import io.quarkus.picocli.runtime.annotations.TopCommand;
 import picocli.CommandLine;
